@@ -10,7 +10,8 @@
 7. Visit `localhost/weather` in a web browser
 8. Done! Enjoy :)
 
-## Credentials
+## Admin Credentials
+- Admin: `http://localhost/weather/admin`
 - Username: `username`
 - Password: `password`
 - API Key: `3794141fe0cac15a9225a73d70d21ce8`
