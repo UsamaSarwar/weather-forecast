@@ -8,9 +8,10 @@
 4. Create database `database`
 5. Import `database.sql`
 6. Place `weather` folder to `C:\xampp\htdocs\`
-7. Visit `localhost/weather/admin` in a web browser and provide API key there
-8. Visit `localhost/weather` in a web browser
-9. Done! Enjoy :)
+7. Visit `localhost/weather/admin` in a web browser 
+8. Goto Weather Tab and provide API key
+9. Now Visit `localhost/weather` in a web browser
+10. Done! Enjoy :)
 
 ## Admin Credentials
 - Admin: `http://localhost/weather/admin`
