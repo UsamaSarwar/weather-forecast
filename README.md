@@ -8,12 +8,13 @@
 4. Create database `database`
 5. Import `database.sql`
 6. Place `weather` folder to `C:\xampp\htdocs\`
-7. Visit `localhost/weather` in a web browser
-8. Done! Enjoy :)
+7. Visit `localhost/weather/admin` in a web browser and provide API key there
+8. Visit `localhost/weather` in a web browser
+9. Done! Enjoy :)
 
 ## Admin Credentials
 - Admin: `http://localhost/weather/admin`
-- Username: `username`
+- Username: `admin`
 - Password: `password`
 - API Key: `3794141fe0cac15a9225a73d70d21ce8`
 *(Use your own API key, however students may use this key)*
